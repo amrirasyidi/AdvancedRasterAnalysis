@@ -7,3 +7,4 @@ oldlesson/
 # additional
 data/
 *.tif
+__pycache__
